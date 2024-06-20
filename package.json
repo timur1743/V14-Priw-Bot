@@ -1,0 +1,22 @@
+{
+    "name": "tk-v14",
+    "author": "tk",
+    "version": "1.0.0",
+    "license": "LGPL-3.0-or-later",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "ecosystem.config.js"
+    },
+    "dependencies": {
+        "@discordjs/voice": "^0.16.0",
+        "axios": "^1.4.0",
+        "canvafy": "^7.0.4",
+        "canvas": "^2.11.2",
+        "cron": "^2.4.1",
+        "discord.js": "^14.11.0",
+        "fs": "^0.0.1-security",
+        "mongoose": "^7.4.5",
+        "ms": "^2.1.3",
+        "node-superfetch": "^0.2.3"
+    }
+}
