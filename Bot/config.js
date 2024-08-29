@@ -6,7 +6,7 @@ module.exports = {
     BotOwners: ["244270216492613632","botownerıd"],
     MongoURL: "mongourl",
     BotVoiceChannel: "seskanalı", 
-    BotStatus: "Timur 💖 1743 ", 
+    BotStatus: "Timur 💖 1916 ", 
     MemberRole: "üye rolu",
     SecretRoomCategory: "özel oda kategorisi",
     WelcomeChannel: "sunucuya biri girince etiket atacagı kanal",
