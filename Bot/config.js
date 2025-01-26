@@ -3,7 +3,7 @@ module.exports = {
     BotToken: "bot tokeni",
     ServerID: "sunucu ıd",
     Prefix: ["."],
-    BotOwners: ["244270216492613632","botownerıd"],
+    BotOwners: ["","","","botownerıd"],
     MongoURL: "mongourl",
     BotVoiceChannel: "seskanalı", 
     BotStatus: "Timur 💖 1916 ", 
@@ -16,6 +16,6 @@ module.exports = {
     //ysayrol: ysay.js ıd gircen yapamazsan erebusun annesine sor
     durumrol: "durum alınca verilcek rol",
     durumrollog:"rol log kanalı",
-    urltag: "/1743",//duruma yazınca rol vercek şey
+    urltag: "/1916",//duruma yazınca rol vercek şey
 
 }
