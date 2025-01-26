@@ -29,7 +29,7 @@ readdir("./src/Events/", (err, files) => {
 });
 
  client.on(Events.MessageCreate, async (message) => {
-    if (message.content == "<@136619876407050240>") return message.reply({ content: `tku etiketleme amk` })
+    if (message.content == "<@136619876407050240>") return message.reply({ content: `timuru etiketleme amk` })
     if (system.Prefix && !message.content.startsWith(system.Prefix)) return;
     if (message.content.includes(".patlat")) return message.reply({ content: `omgg sunucu patladi xd?` })
     const args = message.content.slice(1).trim().split(/ +/g);
